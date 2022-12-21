@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hash_table.h
+uthash.h
+../include/uthash.h
+
+../include/uthash.h
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+stdint.h
+-
+stdint.h
+-
+
+/cygdrive/f/VMware/VM/Shared/2/src/hash_table.c
+hash_table.h
+/cygdrive/f/VMware/VM/Shared/2/src/hash_table.h
+

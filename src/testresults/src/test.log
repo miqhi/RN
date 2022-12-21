@@ -1,0 +1,15 @@
+E
+======================================================================
+ERROR: test_compile (rnvs_tb.common.CompileTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/rnvs_tb/common.py", line 563, in test_compile
+    result = compile(self.submission, self.path, compile_log)
+  File "/usr/local/lib/python3.10/dist-packages/rnvs_tb/common.py", line 523, in compile
+    raise ValueError(f'No Makefile or CMakeLists.txt found in {path}. Aborting!')
+ValueError: No Makefile or CMakeLists.txt found in /mnt/hgfs/Shared/2/src. Aborting!
+
+----------------------------------------------------------------------
+Ran 1 test in 0.003s
+
+FAILED (errors=1)

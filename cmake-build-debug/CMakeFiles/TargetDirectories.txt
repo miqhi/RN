@@ -1,0 +1,6 @@
+/cygdrive/f/VMware/VM/Shared/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/f/VMware/VM/Shared/2/cmake-build-debug/CMakeFiles/package_source.dir
+/cygdrive/f/VMware/VM/Shared/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/f/VMware/VM/Shared/2/cmake-build-debug/CMakeFiles/package.dir
+/cygdrive/f/VMware/VM/Shared/2/cmake-build-debug/CMakeFiles/peer.dir
+/cygdrive/f/VMware/VM/Shared/2/cmake-build-debug/CMakeFiles/client.dir
